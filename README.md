@@ -1,4 +1,4 @@
-# i23-2552-NLP-Assignment2
+# i23-2552-NLP-Assignment3
 **Muhammad Moiz Khalid  23i-2552  BDS-6C**
 
 A three-stage NLP pipeline built entirely from scratch on the Amazon Reviews dataset. No pretrained models. No `nn.Transformer`, `nn.MultiheadAttention`, or `nn.TransformerEncoder`.
