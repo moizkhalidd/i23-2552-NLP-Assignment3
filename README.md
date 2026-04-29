@@ -28,6 +28,7 @@ A three-stage NLP pipeline built entirely from scratch on the Amazon Reviews dat
 
 ```
 ├── i232552_NLP_Assignment3.ipynb   # Main notebook
+├── Report
 ├── models/
 │   ├── encoder.pt                  # Trained encoder weights
 │   ├── decoderRag.pt               # Trained decoder (with RAG)
